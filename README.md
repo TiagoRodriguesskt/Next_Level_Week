@@ -1,5 +1,6 @@
 # Next_Level_Week
 Ecoleta
+Foi uma semana de muitos conhecimentos. Com ótimas tecnologias. 
 
 Linguagens e tecnologia
 Front-end: HTML5, CSS e Javascript - https://www.notion.so/Front-end-7c8a1a9a6df547058f1473f899a3b9c4
